@@ -1,8 +1,6 @@
 ## About the podcast
 
-You can use the [editor on GitHub](https://github.com/bilguuna/humans_of_mitpu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Энэхүү төслийн хүрээнд нэгэн Подкаст бүтээгдэх бөгөөд үүндээ АНУ-д тус чиглэлээр ажиллаж, амьдарч буй мэргэжилтэнгүүдийг урьж оруулан ажил мэргэжилийн болон амин хувьдаа хэрэгжүүлж болох зөвлөгөө, сүүлийн үеийн мэдээ, мэдээллүүдийг сонсогчидод хүргэх юм.
 
 ### Markdown
 
@@ -15,8 +13,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Introduction
+- Episode 1: Pilot
+- Episode 2: Battugs, Micro Servics - Separation of Concern
+- Episode 3: Temuugee, Blockchain development - Crypto Currency
+
 
 1. Numbered
 2. List
