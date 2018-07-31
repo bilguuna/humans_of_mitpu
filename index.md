@@ -4,10 +4,10 @@
 
 ### Episodes
 
-- Introduction
-- Episode 1: Pilot
-- Episode 2: Battugs, Micro Servics - Separation of Concern
-- Episode 3: Temuugee, Blockchain development - Crypto Currency
+- [Introduction] (https://guides.github.com/features/mastering-markdown/)
+- [Episode 1: Pilot](#)
+- [Episode 2: Battugs, Micro Servics - Separation of Concern] (https://guides.github.com/features/mastering-markdown/)
+- [Episode 3: Temuugee, Blockchain development - Crypto Currency] (https://guides.github.com/features/mastering-markdown/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -17,10 +17,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- [Introduction] (#)
-- [Episode 1: Pilot](#)
-- [Episode 2: Battugs, Micro Servics - Separation of Concern] (#)
-- [Episode 3: Temuugee, Blockchain development - Crypto Currency] (#)
+
 
 1. Numbered
 2. List
