@@ -5,7 +5,7 @@
 ### Episodes
 
 - [Introduction] (https://guides.github.com/features/mastering-markdown/)
-- [Episode 1: Pilot](#)
+- [Episode 1: Pilot](https://guides.github.com/features/mastering-markdown/)
 - [Episode 2: Battugs, Micro Servics - Separation of Concern] (https://guides.github.com/features/mastering-markdown/)
 - [Episode 3: Temuugee, Blockchain development - Crypto Currency] (https://guides.github.com/features/mastering-markdown/)
 
