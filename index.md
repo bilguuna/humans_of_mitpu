@@ -17,19 +17,17 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Introduction
-- Episode 1: Pilot
-- Episode 2: Battugs, Micro Servics - Separation of Concern
-- Episode 3: Temuugee, Blockchain development - Crypto Currency
+- [Introduction] (#)
+- [Episode 1: Pilot](#)
+- [Episode 2: Battugs, Micro Servics - Separation of Concern] (#)
+- [Episode 3: Temuugee, Blockchain development - Crypto Currency] (#)
 
-```markdown
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
