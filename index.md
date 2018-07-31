@@ -2,11 +2,15 @@
 
 Энэхүү төслийн хүрээнд нэгэн Подкаст бүтээгдэх бөгөөд үүндээ АНУ-д тус чиглэлээр ажиллаж, амьдарч буй мэргэжилтэнгүүдийг урьж оруулан ажил мэргэжилийн болон амин хувьдаа хэрэгжүүлж болох зөвлөгөө, сүүлийн үеийн мэдээ, мэдээллүүдийг сонсогчидод хүргэх юм.
 
-### Markdown
+### Episodes
+
+- Introduction
+- Episode 1: Pilot
+- Episode 2: Battugs, Micro Servics - Separation of Concern
+- Episode 3: Temuugee, Blockchain development - Crypto Currency
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -18,7 +22,7 @@ Syntax highlighted code block
 - Episode 2: Battugs, Micro Servics - Separation of Concern
 - Episode 3: Temuugee, Blockchain development - Crypto Currency
 
-
+```markdown
 1. Numbered
 2. List
 
